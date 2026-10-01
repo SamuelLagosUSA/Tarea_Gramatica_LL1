@@ -1,0 +1,4 @@
+# Error lexico: caracter no admitido por el analizador
+radio = 5;
+area = pi * radio @ 2;
+print area;

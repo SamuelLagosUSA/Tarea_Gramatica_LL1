@@ -1,0 +1,5 @@
+# Error semantico: uso de variable no definida
+base = 20;
+altura = 10;
+area = (base * altura_triangulo) / 2;
+print area;

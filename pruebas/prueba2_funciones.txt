@@ -1,0 +1,12 @@
+# Funciones trigonometricas, valor absoluto y constantes
+angulo = pi / 2;
+s = sin(angulo);
+c = cos(0);
+t = tan(0);
+val_abs = abs(-25.4);
+euler = e;
+
+print s;
+print c + t;
+print val_abs;
+print euler;

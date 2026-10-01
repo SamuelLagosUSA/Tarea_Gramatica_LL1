@@ -1,0 +1,4 @@
+# Error semantico: division por cero calculada
+dividendo = 50;
+divisor = 10 - (5 * 2);
+print dividendo / divisor;

@@ -1,0 +1,12 @@
+# Prueba de operaciones basicas y precedencia
+a = 10;
+b = 4;
+res1 = a + b * 2;
+res2 = (a + b) * 2;
+res3 = 17 % 5;
+res4 = -res1 + 5;
+
+print res1;
+print res2;
+print res3;
+print res4;

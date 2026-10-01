@@ -1,0 +1,4 @@
+# Error sintactico: falta el punto y coma en la primera linea
+x = 15 + 3
+y = 10;
+print x + y;
