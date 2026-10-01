@@ -40,12 +40,6 @@ Tarea_Gramatica_LL1/
     └── prueba6_error_division_cero.txt
 ```
 
-> **Aviso de compatibilidad de nombres:**  
-> Si los archivos en tu repositorio se llamaban originalmente `lexer.py` y `parser.py`, deben renombrarse para satisfacer las importaciones de `main.py` (`from lex import ...` y `from parser_ll1 import ...`):
-> ```bash
-> mv lexer.py lex.py
-> mv parser.py parser_ll1.py
-> ```
 
 ---
 
